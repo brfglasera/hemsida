@@ -7,5 +7,5 @@ Du kan kontakta styrelsen på vår mail <styrelsen@brfglasera.se>
 - Virág Budáné
 - Annakarin Eriksson
 - Louise Ahlström
-- Stefan Höglund
 - Pontus Thomsson
+- David Kindström
