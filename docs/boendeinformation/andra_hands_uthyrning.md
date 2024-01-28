@@ -45,7 +45,7 @@ skälen som är reglerade i hyreslagstiftningen.
    Exempel på godtagbara skäl är när bostadsrättshavaren anskaffat en
    bostadsrätt för att bosätta sig i efter pensionering, men behöver hyra ut
    den under en övergångstid.
-
+<!-- 
 ## AirBnb
 
 Uthyrning av övernattningsnätter, helger, vecka med Airbnb, Blocket eller
@@ -101,4 +101,4 @@ För att upplåtelse i andra hand ska kunna godkännas ska det också finnas
 förslag på en namngiven hyresgäst. Under uthyrningstiden är du som
 bostadsrättsinnehavare ansvarig för lägenheten, att avgifterna betalas, att din
 hyresgäst inte missköter sig etc. Glöm inte att också informera din hyresgäst
-om föreningens regler och trivselregler.
+om föreningens regler och trivselregler. -->
