@@ -48,4 +48,4 @@ Felanmälan görs via
 
     Från och med 2024-03-01 behöver ni ha kompletterat er hemförsäkring med
     bostadsrättstillägget. Mer info vad detta innebär hittar ni på [Viktig
-    information till föreningens medlemmar](nyheter/2024_01_27.md).
+    information till föreningens medlemmar](nyheter/2024_01_18.md).
