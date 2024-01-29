@@ -44,12 +44,8 @@ Felanmälan görs via
 - Vid akut ärende vardagar: 08-80 20 40
 - Vid akut ärende helg: 08-80 16 28
 
-Från 2024-03-01 behöver ni ha kompletterat er hemförsäkring med
-bostadsrättstillägget. Mer info vad detta innebär hittar ni på bifogad lapp.
+!!! warning "Komplettera hemförsäkring med bostadsrättstillägg"
 
-Har ni frågor, tveka inte, kontakta oss via
-[styrelsen@brfglasera.se](mailto:styrelsen@brfglasera.se)
-
-Vi i styrelsen önskar er alla
-
-God Jul och Gott Nytt År
+    Från och med 2024-03-01 behöver ni ha kompletterat er hemförsäkring med
+    bostadsrättstillägget. Mer info vad detta innebär hittar ni på [Viktig
+    information till föreningens medlemmar](nyheter/2024_01_27.md).

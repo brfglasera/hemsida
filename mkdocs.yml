@@ -17,7 +17,6 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 plugins:
   - search
-  - git-revision-date-localized
   - offline
   - awesome-pages
 extra:

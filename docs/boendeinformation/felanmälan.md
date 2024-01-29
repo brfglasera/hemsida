@@ -1,23 +1,44 @@
 # Felanmälan
 
-För att rapportera ett fel, behöver du veta vem som ska ta emot din felanmälan
-beroende på vilken typ av fel som har uppstått:
+## WIAB
 
-- Om du har problem i din lägenhet eller något som rör din förenings fastighet,
-  vänligen kontakta föreningens tekniska förvaltare, [SBC](https://www.sbc.se).
+**Våra öppettider:**
 
-Kundtjänst: 0771-722 722 (Öppettider: Vardagar 07.00-21.00)
+- Helgfri vardag: 07.30 - 16.30
+- Dag före helgdag: 07.30 - 11.30
+- Midsommar, julafton & nyårsafton: stängt
 
-## Dygnet fastighetsjour
+### Ej brådskande larm/beställningar
 
-Vid akut skada eller liknande som rör fastighetens allmänna utrymmen eller din
-lägenhet under icke kontorstid, ska detta omgående anmälas till
-fastighetsjouren.
+Kontakta oss via e-post: [info@wiabservice.se](mailto:info@wiabservice.se)
 
-- Telefon: 08-18 70 00
-- Fastighetsjouren är öppen alla vardagar mellan kl. 21.00 – 07.00 samt helger.
-- OBS! Om felet beror på handhavandefel kan den boende komma att faktureras för
-  utryckningen.
+### Akut felanmälan under kontorstid
+
+**Telefonnummer:** 08-80 20 40
+
+### Akuta fel utanför kontorstid
+
+**JOUR-nummer:** 08-80 16 28
+
+### När du kontaktar larmcentralen, var vänlig att meddela
+
+1. Detta larm ska vidarebefordras till Wahlings.
+2. Ange tydligt varifrån larmet kommer.
+3. Uppge namn och telefonnummer på den som ringer för eventuell återkoppling.
+4. Beskriv det aktuella felet. Om felet inte kan specificeras, vänligen meddela
+   vad ni har observerat.
+
+!!! note "Notera"
+
+    Larm under icke kontorstid bör undvikas och endast göras i följande fall:
+
+    1. Vid fel eller haveri med potentiella följdskador, som exempelvis
+      vattenskada.
+    2. Vid brådskande situationer, som vintertid när värmeanläggningen inte
+      fungerar.
+    3. I anläggningar där verksamhet pågår i 2- eller 3-skift.
+
+    Vi tackar för din förståelse och samarbete.
 
 ## Skadedjur - Anticimex
 
