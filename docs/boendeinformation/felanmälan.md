@@ -77,19 +77,17 @@ Kontakta IKEA för ärenden som rör vitvaror.
 
 Vänligen uppge följande information:
 
-```text
-Lägenhetsnummer:
-Typ av produkt:
-Fel på varan:
-Namn på produkten:
-Artikelnummer (gäller ej spishäll):
-Service/PNC-nummer (gäller ej spishäll):
-Serienummer (gäller ej spishäll):
-Efternamn:
-Förnamn:
-Adress:
-Postnummer:
-Ort:
-Telefon:
-E-post:
-```
+    Lägenhetsnummer:
+    Typ av produkt:
+    Fel på varan:
+    Namn på produkten:
+    Artikelnummer (gäller ej spishäll):
+    Service/PNC-nummer (gäller ej spishäll):
+    Serienummer (gäller ej spishäll):
+    Efternamn:
+    Förnamn:
+    Adress:
+    Postnummer:
+    Ort:
+    Telefon:
+    E-post:
