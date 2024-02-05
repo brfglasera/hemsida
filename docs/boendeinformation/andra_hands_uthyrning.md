@@ -46,7 +46,7 @@ skälen som är reglerade i hyreslagstiftningen.
    bostadsrätt för att bosätta sig i efter pensionering, men behöver hyra ut
    den under en övergångstid.
 
-Var god ladda ner följande [blankett för andrahandsuthyrning](filer/ansokan_tillstand_for_andrahandsuthyrning.pdf){:download="ansokan_tillstand_for_andrahandsuthyrning.pdf"} och fyll i den och skicka den till oss.
+Var god ladda ner följande [blankett för andrahandsuthyrning](../filer/ansokan_tillstand_for_andrahandsuthyrning.pdf){:download="ansokan_tillstand_for_andrahandsuthyrning.pdf"} och fyll i den och skicka den till oss.
 
 <!--
 ## AirBnb
