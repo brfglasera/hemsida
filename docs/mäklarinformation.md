@@ -4,7 +4,8 @@ Här hittar du viktig information relaterad till mäklarverksamheten.
 
 ## Ekonomisk plan
 
-I den ekonomiska planen finner du en översikt över verksamhetens ekonomiska aspekter och mål. Du kan ladda ner den här:
+I den ekonomiska planen finner du en översikt över verksamhetens ekonomiska
+aspekter och mål. Du kan ladda ner den här:
 
 - [Ekonomisk plan](filer/ekonomisk_plan.pdf){:download="Ekonomisk plan.pdf"}
 
@@ -19,10 +20,14 @@ I den ekonomiska planen finner du en översikt över verksamhetens ekonomiska as
 I april 2019 gjordes energideklarationen för föreningens två fastigheter.
 
 - [Chamottevägen 15-19](filer/926268-deklaration.pdf){:download="Energideklaration.pdf"}
-- [Chamottevägen 13 och Stig Lindbergs Gata 12](filer/926274-deklaration.pdf){:download="Energideklaration.pdf"}
+- [Chamottevägen 13 och Stig Lindbergs Gata
+  12](filer/926274-deklaration.pdf){:download="Energideklaration.pdf"}
+
+## Stadgar
+
+- [Stadgar](filer/stadgar.pdf){:download="stadgar.pdf"}
 
 ## Bostadsrättstillägg
 
-Det är viktigt att våra boende tecknar en hemförsäkring men något extra
-bostadsrättstillägg behöver inte tecknas då bostadsrättsföreningen har tecknat
-ett gemensamt bostadsrättstillägg för alla lägenheter.
+Det är viktigt att våra boende tecknar en hemförsäkring och
+bostadsrättstillägg.
