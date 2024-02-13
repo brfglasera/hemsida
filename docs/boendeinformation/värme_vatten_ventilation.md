@@ -8,7 +8,7 @@ eller kalla. När kylan ute är jämnare så blir också elementen varmare. Om e
 element inte blir varmt under den kyliga/kalla perioden av året, känn då på
 röret som går till elementet. Är röret varmt och elementet kallt så kan det
 vara stopp i inflödet till elementet. Ett tips är att "motionera" termostaten
-på elementet fram och tillbaka. Om problem kvarstår så felanmäl till SBC.
+på elementet fram och tillbaka. Om problem kvarstår så felanmäl till [WIAB](felanmälan.md).
 
 Om termostaten på elementet står på högsta kan det ibland förekomma susningar.
 Ofta försvinner det om termostaten sänks något, vilket inte gör någon nämnvärd

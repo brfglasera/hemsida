@@ -4,8 +4,8 @@ Du kan kontakta styrelsen på vår mail [styrelsen@brfglasera.se](mailto:styrels
 
 ## Styrelsemedlemmar
 
-- Virág Budáné
-- Annakarin Eriksson
-- Louise Ahlström
-- Pontus Thomsson
-- David Kindström
+- Virág Budáné - Ordförande
+- Annakarin Eriksson - Ledamot
+- Pontus Thomsson - Ledamot
+- Louise Ahlström - Suppleant
+- David Kindström - Adjunderade
