@@ -37,6 +37,7 @@ röst är viktig och vi uppmuntrar dig att ta del av denna möjlighet att påver
 
 ### Hur lämnar jag in min motion?
 
-- Du kan lämna in din motion på följande sätt:
-  1. Fysiskt genom att lämna den i föreningens brevlåda .
-  2. Skicka den med post till [styrelsen@brfglasera.se](mailto:styrelsen@brfglasera.se).
+Du kan lämna in din motion på följande sätt:
+
+1. Fysiskt genom att lämna den i föreningens brevlåda.
+2. Skicka den med post till [styrelsen@brfglasera.se](mailto:styrelsen@brfglasera.se).
