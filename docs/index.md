@@ -13,75 +13,30 @@ samtidigt som vi håller kostnaderna nere.
     bostadsrättstillägget. Mer info vad detta innebär hittar ni på [Viktig
     information till föreningens medlemmar](nyheter/2024_01_18.md).
 
-Från 2024-01-01 har vi en ny ekonomisk förvaltare, Fastum. Det är de som sköter
-alla avier.
+## Motion till årets föreningsstämma
 
-Information om hur kan ni ändra betalningssätt och hur ni kan kontakta Fastum
-vid frågor, finns tillsammans med avgiftsavin för januari som ni får i ert
-postfack innan jul.
+Vi närmar oss årets föreningsstämma och det är dags för er att ta tillfället i
+akt att påverka och bidra till utvecklingen av vår förening genom att skriva
+och lämna in era motioner.
 
-Från 2024-01-01 har vi en ny teknisk fastighetsskötare,
-[WIAB](mailto:info@wiabservice.se). De ronderar varannan vecka.
+**Deadline för att lämna in motioner:** Senast den 31 mars 2024
 
-Felanmälan görs via
-[info@wiabservice.se](https://www.wiab-service.se/fastighetsskotsel/).
+Att skriva en motion är ett utmärkt sätt att framföra idéer, förslag och
+synpunkter som du anser är viktiga för föreningens framtid och trivsel. Din
+röst är viktig och vi uppmuntrar dig att ta del av denna möjlighet att påverka.
 
-- Vid akut ärende vardagar: 08-80 20 40
-- Vid akut ärende helg: 08-80 16 28
+### Hur skriver jag en motion?
 
-## 2024 har startat
+- Börja med att identifiera ett ämne eller en fråga som du vill ta upp på
+  föreningsstämman.
+- Formulera din motion tydligt och klart. Beskriv vad du vill uppnå och varför
+  det är viktigt för föreningen.
+- Fundera över vilka åtgärder eller förändringar du föreslår och hur de kan
+  genomföras.
+- Underteckna din motion med ditt namn och din lägenhetsnummer.
 
-Mycket snö och is och en del skottning och sandning började det nya året med.
-Trevligt med riktig vinter men också ökade kostnader för detta. Även mycket
-grus utomhus som lätt dras in. När grus hamnar i spåret för hissdörren kan det
-förorsaka problem med hissen. Låt oss hjälpas åt att undvika olägenhet och
-kostnader för onödiga stopp i hissen – stampa av grus utanför porten och på
-mattorna som finns innanför portarna. Undvik att ta med grus till hissen där
-det kan hamna i hisspåren! Tack.
+### Hur lämnar jag in min motion?
 
-Den stora ökningen av kostnader för föreningen kommer främst från ökade
-räntekostnader. Som meddelats tidigare kommer en höjning av avgiften ovanpå den
-om 2% som skedde i januari.
-
-### Avgiften höjs med ytterligare 3% från och med april.
-
-Information har skickats ut om att brf Glasera har en ny fastighetsskötare från
-WIAB och hur felanmälan görs. Om du upplever att det är kallt i lägenhetenbr
-kontrollera att temperaturen understiger 19 grader innan gör felanmälan. Det
-kan upplevas kyligare än det är i och med drag från uteluftsventilen. Även om
-elementet är kallt behöver det ej betyda att något fel. Tänk också på att inte
-täcka för elementen med tjocka gardiner eller möbler.
-
-#### Hur mäter jag temperaturen i min lägenhet?
-
-För att mäta om rummet håller rätt temperatur är det viktigt att du mäter på
-rätt sätt. Du mäter temperaturen i mitten av rummet ca 1,5 meter upp från
-golvet. Är det 19 grader har du en normal inomhustemperatur och elementet kan
-vara kallt samtidigt som temperaturen i lägenheten är över 19 grader.
-
-Rensning av ventilationskanaler och ny injustering/mätning planeras senare
-under året (för en godkänd **OVK**, obligatorisk ventilationskontroll). Inför det
-behöver tillbyggda rum hanteras så ej orsakar nedslag. Alla kostnader för att
-återställa till ursprungliga antalet rum eller för att få tilluft(utifrån) står
-berörd lägenhetsinnehavare för själv. Liksom om blir nedslag pga av ett
-tillbyggt rum som ej har tilluft utifrån.
-
-Kostnadsuppskattning, närmare 8 000 SEK , montering spaltventil i fönster i
-tillbyggt rum (som nu bekräftats är en möjlig lösning, för säker hantering
-behöver en del arbete ske utifrån och en lift hyras -> högre kostnad). Detta
-kan göras i samband med injustering av ventilationen.
-
-Har ni ett tillbyggt rum som ni vill ha kvar och därav önskar spaltventil
-kontakta vänligen [styrelsen@brfglasera.se](mailto:styrelsen@brfglasera.se)
-innan sista mars så sammanställer vi i vilka lägenheter detta ska utföras. En
-del har meddelat tidigare men uppskattar att ni som önskar detta hör av er igen
-då gått ett tag sen detta inleddes. Fakturering sker direkt till berörda boende
-med ROT-avdrag vad gäller montaget.
-
-### Försäkring påminnelse
-
-Som informerats om tidigare kommer föreningens fastighetsförsäkring ej längre
-omfatta ett kollektivt bostadsrättstillägg (fr.o.m 2024-03-01). Det innebär att
-respektive boende behöver ett bostadsrättstillägg i egen hemförsäkring. Om ej
-gjort detta ännu kontakta ditt försäkringsbolag så kan de komplettera din
-hemförsäkring omgående.
+- Du kan lämna in din motion på följande sätt:
+  1. Fysiskt genom att lämna den i föreningens brevlåda .
+  2. Skicka den med post till [styrelsen@brfglasera.se](mailto:styrelsen@brfglasera.se).

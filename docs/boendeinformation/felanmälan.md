@@ -57,7 +57,11 @@ kontakta Tele2.
 
 Om något fel uppstår på din tvättmaskin/torktumlare, kontakta Siemens direkt.
 
-- Telefon: 0771-11 22 77
+- Telefon: 0771 - 19 55 00
+
+Mån-Tor 08:00-21:00  
+Fre: 09:00-21.00  
+Lör-Sön: 09:00-16:00
 
 ### Cylinda
 
