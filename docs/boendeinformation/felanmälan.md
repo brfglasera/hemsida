@@ -11,6 +11,13 @@
 ### Ej brådskande larm/beställningar
 
 Kontakta oss via e-post: [info@wiabservice.se](mailto:info@wiabservice.se)
+eller fyll i formuläret på
+[Felanmälan](https://www.wiab-service.se/felanmalan-namnandring/).
+
+Om felanmälan gäller ett problem inom bostadsrättslägenheten som ligger under
+den boendes ansvar, är det den boende som bekostar åtgärden. Skulle det visa
+sig att det inte finns något fel vid utryckning, kan kostnaden för utryckningen
+även det belasta den boende.
 
 ### Akut felanmälan under kontorstid
 
