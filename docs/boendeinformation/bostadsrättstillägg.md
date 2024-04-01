@@ -24,9 +24,9 @@ tak och grund.
 Här är några exempel på hur ansvarsfördelningen kan se ut. Observera att det
 kan variera och att följande exempel endast är illustrativa:
 
-- **Vattenskada i kök:**
+**Vattenskada i kök:**
 
-  - Köksbordet – medlemmens ansvar, täcks av hemförsäkringen.
-  - Golvet – medlemmens ansvar, kräver bostadsrättstillägg.
-  - Bjälklaget ner mot grannen – föreningens ansvar, täcks av föreningens
-    försäkring.
+- Köksbordet – medlemmens ansvar, täcks av hemförsäkringen.
+- Golvet – medlemmens ansvar, kräver bostadsrättstillägg.
+- Bjälklaget ner mot grannen – föreningens ansvar, täcks av föreningens
+  försäkring.
