@@ -8,4 +8,3 @@ Du kan kontakta styrelsen på vår mail [styrelsen@brfglasera.se](mailto:styrels
 - Annakarin Eriksson - Ledamot
 - Pontus Thomsson - Ledamot
 - Louise Ahlström - Suppleant
-- David Kindström - Adjunderade
