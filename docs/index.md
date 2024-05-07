@@ -5,8 +5,7 @@ kommun.
 
 ## Årstämma
 
-Datum för året årstämma är inte satt ännu. Vi återkommer med mer information
-när det är klart.
+Datum för årets årstämma är den 17 juni klockan 18:30 i Blå Blom. 
 
 ## Nyheter
 
