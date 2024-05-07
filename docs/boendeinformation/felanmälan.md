@@ -75,8 +75,7 @@ Lör-Sön: 09:00-16:00
 Om något fel uppstår på din kombimaskin från Cylinda, kontakta Cylinda direkt.
 
 - Telefon: 0771-25 25 00
-- Du kan även boka ditt servicebesök på [Cylindas
-  webbplats](http://www.cylinda.se/BokaService).
+- Du kan även boka ditt servicebesök på [Cylindas webbplats](http://www.cylinda.se/BokaService){:target="_blank"}.
 
 ## Vitvaror kök/IKEA
 
