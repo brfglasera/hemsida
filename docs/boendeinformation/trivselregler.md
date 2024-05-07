@@ -6,6 +6,7 @@ olika finns det ett antal regler som samtliga medlemmar och dess eventuella
 gäster ska förhålla sig till.**
 
 Ska man ha fest eller spela hög musik måste man ta hänsyn till sina grannar.
+Sådan verksamhet bör inte störa andra och bör ske med omtanke om tiden på dygnet och dagen i veckan.
 
 Renoveringsarbeten och annat som för oväsen som kan tänkas vara störande för de
 som bor runt omkring bör planeras så att de stör så lite som möjligt.
@@ -18,6 +19,11 @@ Den som röker på sin balkong får absolut inte kasta ut fimpar eller aska rakt
 ut så att detta kan blåsa in till grannen under eller bredvid. Detta både ur
 trivselsynpunkt och av säkerhetsskäl; en glödande fimp på grannens matta kan
 orsaka brand.
+
+Vänligen notera att alla allmänna ytor i vårt brf-trapphus ska
+hållas fria från alla föremål. Detta inkluderar korridorer, trapphus och andra gemensamma
+utrymmen. Vi ber alla medlemmar och boende att respektera denna regel för att bevara
+säkerheten och trivseln för alla i vår förening.
 
 ## Säkerhet
 
