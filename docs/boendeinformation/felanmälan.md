@@ -12,7 +12,7 @@
 
 Kontakta oss via e-post: [info@wiabservice.se](mailto:info@wiabservice.se)
 eller fyll i formuläret på
-[Felanmälan](https://www.wiab-service.se/felanmalan-namnandring/).
+[Felanmälan](https://www.wiab-service.se/felanmalan-namnandring/){:target="_blank"}.
 
 Om felanmälan gäller ett problem inom bostadsrättslägenheten som ligger under
 den boendes ansvar, är det den boende som bekostar åtgärden. Skulle det visa
