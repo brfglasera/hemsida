@@ -1,6 +1,6 @@
 # Ekonomisk förvaltare
 
-Vår ekonomiska förvaltare WIAB underlättar för dig som medlem genom en smidig
+Vår ekonomiska förvaltare Fastum underlättar för dig som medlem genom en smidig
 och effektiv hantering av ekonomiska frågor. För att hålla koll på din ekonomi
 och få relevant information, använd kundportalen
 [Fastumdirekt.se](https://www.fastumdirekt.se).
