@@ -10,7 +10,7 @@ aspekter och mål. Du kan ladda ner den här:
 - [Ekonomisk plan](filer/ekonomisk_plan.pdf){:download="Ekonomisk plan.pdf"}
 
 ## Årsredovisningar
-
+- [Årsredovisning 2022](filer/arsredovisning_2022.pdf){:download="Årsredovisning 2022.pdf"}
 - [Årsredovisning 2021](filer/arsredovisning_2021.pdf){:download="Årsredovisning 2021.pdf"}
 - [Årsredovisning 2018](filer/arsredovisning_2018.pdf){:download="Årsredovisning 2018.pdf"}
 - [Årsredovisning 2017](filer/arsredovisning_2017.pdf){:download="Årsredovisning 2017.pdf"}
