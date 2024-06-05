@@ -15,7 +15,7 @@ Datum för årets årstämma är den 17 juni klockan 18:30 i Blå Blom.
 
 Vi har fått besök av bålgetingar. Det är ingen fara, men det är bra om vi är mer uppmärksamma.
 
-Efter diskussion med Anticimex tror vi att själva drottningen flyger runt på våra balkonger och letar efter en plats för sitt nya getingbo, vilket är vanligt vid denna tid på året. Vi vet att Brf Glasera är en bra plats att bo på, men vi vill få drottningen att välja ett annat ställe, samtidigt som vi låter henne vara ifred.
+Efter diskussion med Anticimex tror vi att själva drottningen flyger runt på våra balkonger och letar efter en plats för sitt nya getingbo, vilket är vanligt vid denna tid på året. Vi vet att Brf Glasera är en bra plats att bo på, men vi vill få drottningen att välja ett annat ställe, samtidigt som vi låta henne vara ifred.
 
 Vad kan vi göra:
 
