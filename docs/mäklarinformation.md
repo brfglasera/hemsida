@@ -9,7 +9,14 @@ aspekter och mål. Du kan ladda ner den här:
 
 - [Ekonomisk plan](filer/ekonomisk_plan.pdf){:download="Ekonomisk plan.pdf"}
 
+## Underhållsplan
+
+Underhållsplanen ger en detaljerad översikt över planerade underhållsåtgärder och reparationer för våra fastigheter. Den hjälper oss att säkerställa att våra byggnader hålls i gott skick och att större kostnader kan planeras och budgeteras effektivt. Du kan ladda ner underhållsplanen här:
+
+- [Underhållsplan](filer/underhallsplan.pdf){:download="Underhållsplan.pdf"}
+
 ## Årsredovisningar
+- [Årsredovisning 2023](filer/arsredovisning_2023.pdf){:download="Årsredovisning 2023.pdf"}
 - [Årsredovisning 2022](filer/arsredovisning_2022.pdf){:download="Årsredovisning 2022.pdf"}
 - [Årsredovisning 2021](filer/arsredovisning_2021.pdf){:download="Årsredovisning 2021.pdf"}
 - [Årsredovisning 2018](filer/arsredovisning_2018.pdf){:download="Årsredovisning 2018.pdf"}
