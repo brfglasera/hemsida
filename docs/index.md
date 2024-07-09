@@ -5,12 +5,11 @@ kommun.
 
 ## Årstämma
 
-Datum för årets årstämma är den 17 juni klockan 18:30 i Blå Blom. 
+Datum för årets årstämma är den 17 juni klockan 18:30 i Blå Blom.
 
 ## Nyheter
 
-- [Våren är här!](nyheter/2024_04_16.md)
-
+Läs de senaste nyheterna [här](nyheter/index.md).
 
 ## Gemensamt elavtal
 
@@ -20,7 +19,6 @@ Denna förändring är ett steg i vår plan för att eventuellt kunna installera
 
 Om ni har några frågor eller funderingar, tveka inte att kontakta styrelsen.
 
-
 ## Viktig information gällande bålgetingar
 
 Vi har fått besök av bålgetingar. Det är ingen fara, men det är bra om vi är mer uppmärksamma.
@@ -29,10 +27,10 @@ Efter diskussion med Anticimex tror vi att själva drottningen flyger runt på v
 
 Vad kan vi göra:
 
-* Täta alla hål, till exempel längst ner på balkongstaketet, eftersom de gillar att bo i olika hål eller rör och bygger vanligtvis bo där det behövs.
-* Lämna inget sött på balkongen; även doftande ljus och solkräm räknas.
-* Ta in filtar, dynor och kuddar när ni inte är ute för att undvika getingstick, om den skulle råka gömma sig mellan tyg och möbler för att vila.
-* Misstänker ni att de ändå flyttat in, kontakta styrelsen via mail på [styrelsen@brfglasera.se](mailto:styrelsen@brfglasera.se). Vi har redan ett ärende hos Anticimex och har en kontakt.
+- Täta alla hål, till exempel längst ner på balkongstaketet, eftersom de gillar att bo i olika hål eller rör och bygger vanligtvis bo där det behövs.
+- Lämna inget sött på balkongen; även doftande ljus och solkräm räknas.
+- Ta in filtar, dynor och kuddar när ni inte är ute för att undvika getingstick, om den skulle råka gömma sig mellan tyg och möbler för att vila.
+- Misstänker ni att de ändå flyttat in, kontakta styrelsen via mail på [styrelsen@brfglasera.se](mailto:styrelsen@brfglasera.se). Vi har redan ett ärende hos Anticimex och har en kontakt.
 
 ### Fakta om bålgetingar
 

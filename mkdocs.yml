@@ -19,5 +19,11 @@ plugins:
   - search
   - offline
   - awesome-pages
+  - blog:
+      archive_name: Arkiv
+      blog_dir: nyheter
+      blog_toc: false
+      archive_toc: true
+      post_date_format: full
 extra:
   generator: false
