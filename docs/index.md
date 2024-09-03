@@ -3,10 +3,6 @@
 Välkommen till Brf Glasera, en bostadsrättsförening i Gustavsberg, Värmdö
 kommun.
 
-## Årstämma
-
-Datum för årets årstämma är den 17 juni klockan 18:30 i Blå Blom.
-
 ## Nyheter
 
 Läs de senaste nyheterna [här](nyheter/index.md).
