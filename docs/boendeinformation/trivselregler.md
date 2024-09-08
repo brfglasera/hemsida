@@ -20,10 +20,10 @@ ut så att detta kan blåsa in till grannen under eller bredvid. Detta både ur
 trivselsynpunkt och av säkerhetsskäl; en glödande fimp på grannens matta kan
 orsaka brand.
 
-Vänligen notera att alla allmänna ytor i vårt brf-trapphus ska
-hållas fria från alla föremål. Detta inkluderar korridorer, trapphus och andra gemensamma
-utrymmen. Vi ber alla medlemmar och boende att respektera denna regel för att bevara
-säkerheten och trivseln för alla i vår förening.
+Vänligen notera att alla allmänna ytor i vårt brf-trapphus ska hållas fria från
+alla föremål. Detta inkluderar korridorer, trapphus och andra gemensamma
+utrymmen. Vi ber alla medlemmar och boende att respektera denna regel för att
+bevara säkerheten och trivseln för alla i vår förening.
 
 ## Säkerhet
 

@@ -1,6 +1,6 @@
-# Mäklarinformation
+# Allmän information
 
-Här hittar du viktig information relaterad till mäklarverksamheten.
+Här hittar du viktig allmän information.
 
 ## Ekonomisk plan
 
@@ -16,6 +16,7 @@ Underhållsplanen ger en detaljerad översikt över planerade underhållsåtgär
 - [Underhållsplan](filer/underhallsplan.pdf){:download="Underhållsplan.pdf"}
 
 ## Årsredovisningar
+
 - [Årsredovisning 2023](filer/arsredovisning_2023.pdf){:download="Årsredovisning 2023.pdf"}
 - [Årsredovisning 2022](filer/arsredovisning_2022.pdf){:download="Årsredovisning 2022.pdf"}
 - [Årsredovisning 2021](filer/arsredovisning_2021.pdf){:download="Årsredovisning 2021.pdf"}
@@ -38,3 +39,7 @@ I april 2019 gjordes energideklarationen för föreningens två fastigheter.
 
 Det är viktigt att våra boende tecknar en hemförsäkring och
 bostadsrättstillägg.
+
+## Stämmoprotokoll
+
+Om du vill ha en kopia av det aktuella stämmoprotokollet, vänligen kontakta styrelsen via e-post på [styrelsen@brfglasera.se](mailto:styrelsen@brfglasera.se).
