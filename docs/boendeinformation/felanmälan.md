@@ -101,3 +101,9 @@ Vänligen uppge följande information:
     Ort:
     Telefon:
     E-post:
+
+## Hiss
+
+Kontakta Schindler Hiss AB för att felanmäla en hiss vid eventuell driftstörning.
+
+- Telefon 020-31 33 33
