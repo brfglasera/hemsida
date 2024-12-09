@@ -3,17 +3,6 @@
 Välkommen till Brf Glasera, en bostadsrättsförening i Gustavsberg, Värmdö
 kommun.
 
-## Vattenläcka i hamnen
-
-En vattenläcka har inträffat vid busshållplatsen nära Hemköp i Gustavsbergs hamn. Reparationsarbeten pågår under söndagen, vilket kan medföra brunt vatten i kranarna.
-
-**Rekommendationer:**
-
-- Spola i kranen tills vattnet klarnar om det är missfärgat.
-- För de som saknar vatten finns ett tappställe vid pumpstationen Skogsbo.
-
-För mer information och uppdateringar, besök [Värmdö kommuns hemsida](https://www.varmdo.se/).
-
 ## Nyheter
 
 Läs de senaste nyheterna [här](nyheter/index.md).
