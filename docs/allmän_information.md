@@ -21,6 +21,8 @@ Underhållsplanen ger en detaljerad översikt över planerade underhållsåtgär
 - [Årsredovisning 2023](filer/arsredovisning_2023.pdf){:download="Årsredovisning 2023.pdf"}
 - [Årsredovisning 2022](filer/arsredovisning_2022.pdf){:download="Årsredovisning 2022.pdf"}
 - [Årsredovisning 2021](filer/arsredovisning_2021.pdf){:download="Årsredovisning 2021.pdf"}
+- [Årsredovisning 2020](filer/arsredovisning_2020.pdf){:download="Årsredovisning 2020.pdf"}
+- [Årsredovisning 2019](filer/arsredovisning_2019.pdf){:download="Årsredovisning 2019.pdf"}
 - [Årsredovisning 2018](filer/arsredovisning_2018.pdf){:download="Årsredovisning 2018.pdf"}
 - [Årsredovisning 2017](filer/arsredovisning_2017.pdf){:download="Årsredovisning 2017.pdf"}
 
