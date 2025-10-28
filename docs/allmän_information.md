@@ -46,3 +46,7 @@ bostadsrättstillägg.
 ## Stämmoprotokoll
 
 Om du vill ha en kopia av det aktuella stämmoprotokollet, vänligen kontakta styrelsen via e-post på [styrelsen@brfglasera.se](mailto:styrelsen@brfglasera.se).
+
+## Trivselregler
+
+För trivselregler, vänligen ladda ner dokumentet här: [Trivselregler](filer/trivselregler.pdf){:download="Trivselregler.pdf"}
