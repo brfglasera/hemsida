@@ -22,7 +22,7 @@ Gruppen är ett fristående initiativ av boende och drivs inte av styrelsen. Off
 ## Årstämma 2026
 
 Ordinarie föreningsstämma hålls måndagen den 18 maj 2026 kl. 18.30.
-Lokalen är Verkstan i Kulturhuset.
+Lokal kommer att meddelas i samband med kallelsen till årsstämman, som kommer att skickas ut inom föreskriven tid.
 
 Du som medlem kan lämna motion till stämman.
 
