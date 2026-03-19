@@ -8,6 +8,7 @@ kommun.
 Vi vill tipsa om vår nystartade Facebook-grupp &mdash; en mötesplats för oss som bor i föreningen. Här kan vi hjälpas åt i vardagen och stärka gemenskapen i huset.
 
 I gruppen kan vi bland annat:
+
 - **Dela info**: Snabb uppdatering om vad som händer i huset.
 - **Grannhjälp**: Låna en stege, få blomvattningshjälp eller tips på hantverkare.
 - **Hållbarhet**: Skänka, sälja eller byta saker med varandra.
