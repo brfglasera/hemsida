@@ -44,5 +44,6 @@ Alla boende behöver veta var vattnet kan stängas av vid en eventuell läcka. S
 ### Om olyckan är framme
 
 Vid en akut vattenläcka som du inte kan stoppa själv:
+
 1. Stäng omedelbart av huvudkranen i badrummet.
 2. Kontakta **Fastum** på telefon **90 220**.
